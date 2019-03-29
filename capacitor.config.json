@@ -1,0 +1,6 @@
+{
+  "appId": "com.filesharer.sample",
+  "appName": "sample-file-sharer",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}

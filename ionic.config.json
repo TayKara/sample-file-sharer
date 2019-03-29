@@ -1,0 +1,7 @@
+{
+  "name": "sample-file-sharer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
